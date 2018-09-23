@@ -1,3 +1,3 @@
 # LibrusAttendance
 
-Hey, now there is a [website](frekwencja.edu.pl), where you can check your attendance online!
+Hey, now there is a [website](https://frekwencja.edu.pl/), where you can check your attendance online!
